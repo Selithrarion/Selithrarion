@@ -1,2 +1,2 @@
 ### Привет 👋
-- 🔭 я Vue.js Frontend dev
+я Vue.js Frontend
