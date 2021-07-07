@@ -1,2 +1,2 @@
 ### Привет 👋
-Vue.js Frontend и немного Nest.js Backend (в основном фронт)
+Vue.js (Nuxt, Quasar) Frontend и немного Node.js (Nest), Go Backend (в основном фронт)
