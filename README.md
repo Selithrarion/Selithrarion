@@ -1,7 +1,7 @@
 ### hiii 👋
 Vue.js (Nuxt.js, Quasar) frontend developer, and a bit Node.js (Nest.js) and Go backend, I don't consider myself a fullstack, more to frontend  
 
-Contacts:  
+contacts:  
 – discord: Selithrarion(Sergey)#5794  
 – telegram: @selithrarion09
 
