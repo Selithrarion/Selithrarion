@@ -1,7 +1,7 @@
 ### hiii 👋
 Vue.js (Nuxt.js, Quasar) frontend developer and a bit Node.js (Nest.js) + Go backend, I don't see myself as a fullstack, more like a frontend   
 
-## few strange words below to quickly understand what i use in my daily dev routine even if you don't care
+## few strange words below to quickly understand what i use in my daily dev routine even if you don't care 🥰
 
 #### Frontend Stack:  
 – Vue 2, Vue 3 (+ Typescript), Vuex  
