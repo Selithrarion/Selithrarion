@@ -12,8 +12,8 @@ Vue.js (Nuxt.js, Quasar) frontend developer and a bit Node.js (Nest.js) + Go bac
 
 #### Backend Stack:  
 – Node.js (Express, Koa, Nest.js)  
-– GraphQL 
-– Websockets + Socket.io
+– GraphQL  
+– Websockets + Socket.io  
 – PostgreSQL, ORM (TypeORM, Sequelize), MongoDB (Mongoose)  
 – authorization (RBAC), authentication (sessions, JWT, OAuth)  
 – AWS S3  
