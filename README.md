@@ -1,10 +1,10 @@
-### welcome 👋
+## welcome 👋
 Vue.js (Nuxt.js, Quasar) frontend developer and a bit Node.js (Nest.js) + Go backend, I don't see myself as a fullstack, more like a frontend   
 
 ## stack
 
 #### frontend:  
-– Vue 2, Vue 3 (+ Typescript), Vuex  
+– Vue 2, Vue 3 (+ Typescript)  
 – Nuxt, Quasar  
 – GraphQL (Apollo)  
 – Tests with Jest and Cypress  
