@@ -1,24 +1,20 @@
 ### welcome 👋
 Vue.js (Nuxt.js, Quasar) frontend developer and a bit Node.js (Nest.js) + Go backend, I don't see myself as a fullstack, more like a frontend   
 
-## Stack
+## stack
 
-#### Frontend Stack:  
+#### frontend:  
 – Vue 2, Vue 3 (+ Typescript), Vuex  
 – Nuxt, Quasar  
 – GraphQL (Apollo)  
 – Tests with Jest and Cypress  
-– Websockets + Socket.io   
+– Websockets
 
-#### Backend Stack:  
-– Node.js (Express, Koa, Nest.js)  
-– GraphQL  
-– Websockets + Socket.io  
-– PostgreSQL, ORM (TypeORM, Sequelize), MongoDB (Mongoose)  
-– authorization (RBAC), authentication (sessions, JWT, OAuth)  
-– AWS S3  
+#### backend:  
+– Node.js (Nest.js)  
+– GraphQL   
 
-#### Other:  
+#### other:  
 – Docker  
   
 ## how to contact me  
