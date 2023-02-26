@@ -1,21 +1,13 @@
 ## welcome 👋
-Vue.js (Nuxt.js, Quasar) frontend developer and a bit Node.js (Nest.js) + Go backend, I don't see myself as a fullstack, more like a frontend   
+Vue.js (Nuxt.js, Quasar) frontend developer
 
-## stack
+## main stack
 
 #### frontend:  
-– Vue 2, Vue 3 (+ Typescript)  
-– Nuxt, Quasar  
-– GraphQL (Apollo)  
-– Tests with Jest and Cypress  
-– Websockets
+– Vue 2, Vue 3 (+ Typescript)
 
 #### backend:  
-– Node.js (Nest.js)  
-– GraphQL   
-
-#### other:  
-– Docker  
+– Node.js (Nest.js)
   
 ## how to contact me  
 – discord: Selithrarion(Sergey)#5794  
@@ -23,5 +15,5 @@ Vue.js (Nuxt.js, Quasar) frontend developer and a bit Node.js (Nest.js) + Go bac
 – linkedin: https://www.linkedin.com/in/sergey-maltsev-58406a1b5/  
 leetcode: https://leetcode.com/Selithrarion/
 
-i'm watching you   
+im watching you   
 <a href="https://info.flagcounter.com/p4uu"><img src="https://s01.flagcounter.com/count/p4uu/bg_FFFFFF/txt_000000/border_ADADAD/columns_2/maxflags_10/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
