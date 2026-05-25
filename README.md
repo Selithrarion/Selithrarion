@@ -1,18 +1,11 @@
-## welcome 👋
-Vue.js (Nuxt.js, Quasar) frontend developer
-
-## main stack
-
-#### frontend:  
-– Vue 2, Vue 3 (+ Typescript)
-
-#### backend:  
-– Node.js (Nest.js)
+## welcome
+specializing in rust, low-level systems, and high-performance web apps (Vue/React + Nest.js fullstack)  
   
-## how to contact me  
-– discord: Selithrarion(Sergey)#5794  
-– telegram: @selithrarion09  
+## how to contact me   
+– discord: selithrarion  
+– telegram: [@selithrarion09](https://t.me/selithrarion09)  
 – linkedin: https://www.linkedin.com/in/sergey-maltsev-58406a1b5/  
+
 leetcode: https://leetcode.com/Selithrarion/
 
 im watching you   
